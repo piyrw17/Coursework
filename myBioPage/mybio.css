@@ -1,0 +1,46 @@
+.page {
+  width: 900px;
+  margin: 0 auto;
+  overflow: hidden;            
+  background-color: #EAEDF0;    
+}
+.menu {
+  height: 100px;
+  background-color: #BEADF7;
+  font-size:35px;
+}
+
+.sidebar {
+   float: left;                  
+  width: 200px;
+  height: 300px;
+  background-color: #228B22;
+  font-size:25px;
+}
+
+.content {
+  float: left;                  
+  width: 650px;
+  height: 500px;
+  background-color: #F5CF8E;
+}
+
+.article-image {
+  float: left;
+  width: 500px;
+  height: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  clear: both;            
+  height: 200px;
+  background-color: #0000FF;
+  font-size:100px;
+}
+
+div .image {
+   content:url(http://cdn.smosh.com/sites/default/files/2016/04/dont-talk-to-my-son-meme-far-dog_0.jpg);
+}​
+
